@@ -1,1 +1,10 @@
-
+{
+  "tickets_created": 0,
+  "tickets_closed": 0,
+  "tickets_resolved": 0,
+  "messages_relayed": 0,
+  "bans": 0,
+  "kicks": 0,
+  "timeouts": 0,
+  "warns": 0
+}
