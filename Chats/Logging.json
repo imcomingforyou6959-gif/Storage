@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "user_id": 1071330258172780594,
+    "ticket_id": 1502838559852331250,
+    "user_name": "onlyonestands",
+    "ticket_type": "dm",
+    "status": "closed",
+    "claimed_by_name": "Rawr.xyz | Support Bot",
+    "created_at": "2026-05-10T01:03:54.137383+00:00",
+    "closed_at": "2026-05-10T01:05:27.917781+00:00",
+    "message_count": 4,
+    "resolved_by": null,
+    "resolved_reason": null
+  }
+]
