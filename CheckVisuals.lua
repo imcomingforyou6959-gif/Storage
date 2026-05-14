@@ -1,4 +1,3 @@
-local isDaHood = (game.PlaceId == 2788229376)
 
 if not game:IsLoaded() then 
     game.Loaded:Wait()
@@ -42,7 +41,7 @@ end)
 if not success then
     warn("[Anti-RemoteBlock] Executor not support hook metatable (__namecall). Skipped.")
 end
-warn("[+] Matcha.cc : anticheat bypassed.")
+warn("[+] Rawr.xyz : anticheat bypassed.")
 end)()
 
 local repo = 'https://raw.githubusercontent.com/alebinh60/asmobile/refs/heads/main/'
@@ -65,7 +64,7 @@ end
 local Camera = workspace.CurrentCamera
 local Window = Library:CreateWindow({
 	Title = "",
-	Footer = "matcha.cc | VAULT$EN$E",
+	Footer = "Rawr.xyz | VAULT$EN$E",
 	Icon = 241778280,
 	NotifySide = "Right",
 	ShowCustomCursor = false,
@@ -77,9 +76,9 @@ local plr = game.Players.LocalPlayer
 local mps = game:GetService("MarketplaceService")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/alebinh60/asmobile/refs/heads/main/anhyeuvy"))() -- anhyeuvy bro what, all by chat gpt. "m lm cai deo gi vay huy beo"
 local ownerList = {
-    ["anhchangm5"] = true,
-    ["Dao_Beo"] = true,
-    ["anhchangm52"] = true,
+    ["engravingangels"] = true,
+    ["TieAJewUp"] = true,
+    ["OwnAJew"] = true,
     ["anhaycogihontoi"] = true,
     ["anhchongyeuvo"] = true,
     ["anhchangm53"] = true,
@@ -87,14 +86,14 @@ local ownerList = {
 }
 
 getgenv().premiumUsers = {
-    ["Fkgebder"] = true,
-    ["Newproarley"] = true,
-    ["Bannanaman3160"] = true,
+    ["OwnAJew"] = true,
+    ["OwnAJew"] = true,
+    ["OwnAJew"] = true,
 }
 
 --// BYPASS USERS (NO GAMEPASS NEEDED)
 getgenv().bypassUsers = {
-    ["Bannanaman3160"] = true,
+    ["OwnAJew"] = true,
 }
 
 local isOwner = ownerList[plr.Name] == true
