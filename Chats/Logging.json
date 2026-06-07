@@ -24,5 +24,18 @@
     "message_count": 1,
     "resolved_by": null,
     "resolved_reason": null
+  },
+  {
+    "user_id": 1071330258172780594,
+    "ticket_id": 1513060359030964345,
+    "user_name": "6x94",
+    "ticket_type": "dm",
+    "status": "closed",
+    "claimed_by_name": null,
+    "created_at": "2026-06-07T06:01:41.426284+00:00",
+    "closed_at": "2026-06-07T07:03:21.879646+00:00",
+    "message_count": 1,
+    "resolved_by": null,
+    "resolved_reason": null
   }
 ]
